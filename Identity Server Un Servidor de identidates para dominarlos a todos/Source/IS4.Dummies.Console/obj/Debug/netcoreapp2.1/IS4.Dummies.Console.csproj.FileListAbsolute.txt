@@ -1,0 +1,11 @@
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\bin\Debug\netcoreapp2.1\IS4.Dummies.Console.deps.json
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\bin\Debug\netcoreapp2.1\IS4.Dummies.Console.runtimeconfig.json
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\bin\Debug\netcoreapp2.1\IS4.Dummies.Console.runtimeconfig.dev.json
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\bin\Debug\netcoreapp2.1\IS4.Dummies.Console.dll
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\obj\Debug\netcoreapp2.1\IS4.Dummies.Console.csproj.CoreCompileInputs.cache
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\obj\Debug\netcoreapp2.1\IS4.Dummies.Console.AssemblyInfoInputs.cache
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\obj\Debug\netcoreapp2.1\IS4.Dummies.Console.AssemblyInfo.cs
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\bin\Debug\netcoreapp2.1\IS4.Dummies.Console.pdb
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\obj\Debug\netcoreapp2.1\IS4.Dummies.Console.csprojAssemblyReference.cache
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\obj\Debug\netcoreapp2.1\IS4.Dummies.Console.dll
+C:\ADC\NetConf\IdentityServer\IS4.Dummies.Console\obj\Debug\netcoreapp2.1\IS4.Dummies.Console.pdb

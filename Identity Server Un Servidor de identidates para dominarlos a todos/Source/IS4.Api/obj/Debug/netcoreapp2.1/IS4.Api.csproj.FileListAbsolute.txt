@@ -1,0 +1,14 @@
+C:\ADC\NetConf\IdentityServer\IS4.Api\bin\Debug\netcoreapp2.1\IS4.Api.deps.json
+C:\ADC\NetConf\IdentityServer\IS4.Api\bin\Debug\netcoreapp2.1\IS4.Api.runtimeconfig.json
+C:\ADC\NetConf\IdentityServer\IS4.Api\bin\Debug\netcoreapp2.1\IS4.Api.runtimeconfig.dev.json
+C:\ADC\NetConf\IdentityServer\IS4.Api\bin\Debug\netcoreapp2.1\IS4.Api.dll
+C:\ADC\NetConf\IdentityServer\IS4.Api\obj\Debug\netcoreapp2.1\IS4.Api.csprojAssemblyReference.cache
+C:\ADC\NetConf\IdentityServer\IS4.Api\obj\Debug\netcoreapp2.1\IS4.Api.csproj.CoreCompileInputs.cache
+C:\ADC\NetConf\IdentityServer\IS4.Api\obj\Debug\netcoreapp2.1\IS4.Api.RazorAssemblyInfo.cache
+C:\ADC\NetConf\IdentityServer\IS4.Api\obj\Debug\netcoreapp2.1\IS4.Api.RazorAssemblyInfo.cs
+C:\ADC\NetConf\IdentityServer\IS4.Api\obj\Debug\netcoreapp2.1\IS4.Api.AssemblyInfoInputs.cache
+C:\ADC\NetConf\IdentityServer\IS4.Api\obj\Debug\netcoreapp2.1\IS4.Api.AssemblyInfo.cs
+C:\ADC\NetConf\IdentityServer\IS4.Api\obj\Debug\netcoreapp2.1\IS4.Api.RazorTargetAssemblyInfo.cache
+C:\ADC\NetConf\IdentityServer\IS4.Api\bin\Debug\netcoreapp2.1\IS4.Api.pdb
+C:\ADC\NetConf\IdentityServer\IS4.Api\obj\Debug\netcoreapp2.1\IS4.Api.dll
+C:\ADC\NetConf\IdentityServer\IS4.Api\obj\Debug\netcoreapp2.1\IS4.Api.pdb

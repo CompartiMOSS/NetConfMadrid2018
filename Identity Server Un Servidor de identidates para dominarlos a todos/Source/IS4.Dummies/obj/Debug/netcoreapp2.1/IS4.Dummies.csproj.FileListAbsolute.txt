@@ -1,0 +1,14 @@
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\bin\Debug\netcoreapp2.1\IS4.Dummies.deps.json
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\bin\Debug\netcoreapp2.1\IS4.Dummies.runtimeconfig.json
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\bin\Debug\netcoreapp2.1\IS4.Dummies.runtimeconfig.dev.json
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\bin\Debug\netcoreapp2.1\IS4.Dummies.dll
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\obj\Debug\netcoreapp2.1\IS4.Dummies.csproj.CoreCompileInputs.cache
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\obj\Debug\netcoreapp2.1\IS4.Dummies.RazorAssemblyInfo.cache
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\obj\Debug\netcoreapp2.1\IS4.Dummies.RazorAssemblyInfo.cs
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\obj\Debug\netcoreapp2.1\IS4.Dummies.AssemblyInfoInputs.cache
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\obj\Debug\netcoreapp2.1\IS4.Dummies.AssemblyInfo.cs
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\obj\Debug\netcoreapp2.1\IS4.Dummies.RazorTargetAssemblyInfo.cache
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\bin\Debug\netcoreapp2.1\IS4.Dummies.pdb
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\obj\Debug\netcoreapp2.1\IS4.Dummies.csprojAssemblyReference.cache
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\obj\Debug\netcoreapp2.1\IS4.Dummies.dll
+C:\ADC\NetConf\IdentityServer\IS4.Dummies\obj\Debug\netcoreapp2.1\IS4.Dummies.pdb
